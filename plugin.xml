@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-easyannotation" version="1.0.3" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>EasyAnnotation - a JavaScript image annotation library</name>
+    <author>EasyAnnotation Software</author>
+    <description>EasyAnnotation Plugin</description>
+    <keywords>image annotation,javascript, easyannotation</keywords>
+  <js-module name="EasyAnnotation" src="easyannotation.js">
+     <clobbers target="easyannotation" />
+  </js-module>
+</plugin>

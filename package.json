@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-easyannotation",
+  "version": "1.0.1",
+  "description": "EasyAnnotation Plugin",
+  "cordova": {
+    "id": "cordova-plugin-easyannotation",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "image annotation",
+    "easy-annotation",
+    "javascript"
+  ],
+  "author": "Easy Annotation Software",
+  "homepage": "http://easyannotation.com"
+}
